@@ -29,7 +29,19 @@ Takeaways:
     It is because we want Electron Hub to be customizable to each and every person's needs. Each person has different needs in order to enhance themselves,
     and we don't want anyone to have stagnent potential.
   </details>
-  If you have any more questions, please fill out this [form]()
+  If you have any more questions, please fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oK0bI1UMDZQOU80TUQwMVlTOFRQT1I2QzBKRDdMTi4u)
+</details>
+
+### Want to know what's in stock? Check out the directory!
+
+<details>
+  <summary>Directory of extensions</summary>
+
+  
+  - Atom AnyView - Apps
+    
+
+
 </details>
 
 ## Thanks for visiting! 👋
