@@ -18,9 +18,9 @@ But then again, we are the fruits of your labour. You alone have made us student
 devs of this software take this on as a fun challenge (we polled the devs last year). This is a bit long so we will just bullet some stuff and be done with it.
 Takeaways:
 
-- Electron Hub is a stress reliving and student learning optimization site
-- All features that are (Most regrettably) irritating to school staff are not intellectual properties of Atom Services or Electron Hub
-- These extensions are created by anonymous developers and are only reviewed for compatibility
+- Electron Hub is a stress reliving and student learning optimization site.
+- All features that are (Most regrettably) irritating to school staff are not intellectual properties of Atom Services or Electron Hub.
+- These extensions are created by anonymous developers and are only reviewed for compatibility.
 - We encourage students to wisely use Electron Hub to enhance learning and optimize their enviorment but because of the flexibility of this software, we can't do anything if they make bad choices.
 <details>
   <summary>FAQ</summary>
